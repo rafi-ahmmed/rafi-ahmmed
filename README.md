@@ -25,44 +25,63 @@
 * 📬 Feel free to reach me out via **[Email](mailto:your-email@example.com)**
 
 
-## Skill Set 💪
+## Technical Expertise 🚀
 
-These are some of the major technologies that I use or have worked on in the past:
+I have demonstrated expertise in the following tools and frameworks of modern web technology to build responsive and scalable web applications.
 
-### Programming Languages
+### 💻 LANGUAGES
 <table>
   <tr>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=js" width="40" alt="js" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="ts" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=c" width="40" alt="c" /></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /><br/><sub>HTML</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /><br/><sub>CSS</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
   </tr>
 </table>
 
-### Libraries and Frameworks
+### 🎨 CSS FRAMEWORKS & LIBRARIES
 <table>
   <tr>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=react" width="40" alt="react" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="nextjs" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="tailwind" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=express" width="40" alt="express" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="nodejs" /></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind" /><br/><sub>Tailwind</sub></td>
+    <td align="center" width="75" height="75"><img src="https://img.icons8.com/ios-filled/50/ffffff/shadcn-ui.png" width="40" alt="Shadcn UI" /><br/><sub>Shadcn UI</sub></td>
   </tr>
 </table>
 
-### Databases
+### 🚀 JS FRAMEWORKS & LIBRARIES
 <table>
   <tr>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="mongodb" /></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React.js" /><br/><sub>React.js</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js" /><br/><sub>Next.js</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /><br/><sub>Node.js</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js" /><br/><sub>Express.js</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=redux" width="45" alt="TanStack" /><br/><sub>TanStack</sub></td>
   </tr>
 </table>
 
-### Tools & Operating Systems
+### ⚙️ DATABASE & MODELS (ORM)
 <table>
   <tr>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=git" width="40" alt="git" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=github" width="40" alt="github" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="vscode" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=fedora" width="40" alt="fedora" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=windows" width="40" alt="windows" /></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" /><br/><sub>MongoDB</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL" /><br/><sub>Postgres</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=prisma" width="45" alt="Prisma" /><br/><sub>Prisma</sub></td>
+  </tr>
+</table>
+
+### ☁️ DEPLOYMENT PLATFORMS
+<table>
+  <tr>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" /><br/><sub>Vercel</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase" /><br/><sub>Firebase</sub></td>
+  </tr>
+</table>
+
+### 🛠️ TOOLS & TECHNOLOGIES
+<table>
+  <tr>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /><br/><sub>Git</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /><br/><sub>GitHub</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /><br/><sub>Postman</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=fedora" width="45" alt="Fedora" /><br/><sub>Fedora</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows" /><br/><sub>Windows</sub></td>
   </tr>
 </table>
