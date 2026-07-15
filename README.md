@@ -74,9 +74,6 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   </tr>
 </table>
 
-<h2 align="center">📊 GitHub Analytics & Statistics</h2>
-<hr />
-<br />
 
 <!-- শিরোনাম এবং হরিজন্টাল রুলার -->
 <h2 align="left">📊 GitHub Analytics & Statistics</h2>
