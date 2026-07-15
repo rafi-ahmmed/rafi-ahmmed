@@ -30,29 +30,39 @@
 These are some of the major technologies that I use or have worked on in the past:
 
 ### Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,c" alt="Programming Languages" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=js" width="40" alt="js" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="ts" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=c" width="40" alt="c" /></td>
+  </tr>
+</table>
 
 ### Libraries and Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,nodejs" alt="Libraries and Frameworks" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=react" width="40" alt="react" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="nextjs" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="tailwind" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=express" width="40" alt="express" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="nodejs" /></td>
+  </tr>
+</table>
 
 ### Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="mongodb" /></td>
+  </tr>
+</table>
 
 ### Tools & Operating Systems
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,fedora,windows" alt="Tools and OS" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=git" width="40" alt="git" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=github" width="40" alt="github" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="vscode" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=fedora" width="40" alt="fedora" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=windows" width="40" alt="windows" /></td>
+  </tr>
+</table>
