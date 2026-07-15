@@ -75,7 +75,7 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 </table>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafi-ahmmed&theme=soft-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react)](https://git.io/streak-stats)
 
 <div data-importer="stats" align="center">
   <!-- GitHub Stats Card (Alternative High-Availability API) -->
