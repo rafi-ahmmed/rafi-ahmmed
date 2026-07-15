@@ -80,22 +80,18 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 <br />
 
 <div data-importer="stats" align="center">
-  <!-- ৩টি কার্ডই পাশাপাশি একই লাইনে -->
+  <!-- দুটি কার্ড পাশাপাশি (বামে Streak, ডানে Languages) -->
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- ১. GitHub Stats Card -->
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api?username=rafi-ahmmed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="165" alt="stats graph" style="margin-right: 15px;" />
-      </td>
-      <!-- ২. Top Languages Card -->
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" height="165" alt="languages graph" style="margin-right: 15px;" />
-      </td>
-      <!-- ৩. GitHub Streak Counter -->
+      <!-- ১. GitHub Streak Counter (বামে) -->
       <td align="center" valign="top">
         <a href="https://git.io/streak-stats" target="_blank">
-          <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" height="165" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" height="165" alt="GitHub Streak" style="margin-right: 15px;" />
         </a>
+      </td>
+      <!-- ২. Top Languages Card (ডানে) -->
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" height="165" alt="languages graph" />
       </td>
     </tr>
   </table>
