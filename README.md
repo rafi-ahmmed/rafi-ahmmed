@@ -76,3 +76,7 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafi-ahmmed&theme=soft-green)](https://git.io/streak-stats)
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/rafi-ahmmed/rafi-ahmmed/snake-output/snake.svg" alt="Snake animation" />
+
+###
