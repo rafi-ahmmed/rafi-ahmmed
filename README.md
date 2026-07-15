@@ -78,13 +78,13 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafi-ahmmed&theme=soft-green)](https://git.io/streak-stats)
 
 <div data-importer="stats" align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rafi-ahmmed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <!-- GitHub Stats Card (Alternative High-Availability API) -->
+  <img src="https://github-readme-stats.shion.dev/api?username=rafi-ahmmed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph" />
+  <!-- Top Languages Card (Alternative High-Availability API) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph" />
   
-  <!-- Activity Graph -->
+  <!-- Activity Graph (এটি অলরেডি কাজ করছে) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" height="300" alt="activity-graph graph" />
 </div>
 
