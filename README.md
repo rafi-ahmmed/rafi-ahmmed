@@ -74,7 +74,6 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   </tr>
 </table>
 
-<!-- শিরোনাম এবং হরিজন্টাল রুলার -->
 <h2 align="center">📊 GitHub Analytics & Statistics</h2>
 <hr />
 <br />
@@ -92,12 +91,11 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="40%" alt="languages graph" align="left" />
 </div>
 
+<!-- ফ্লোট ক্লিয়ার করে চার্টের ওপরে পারফেক্ট গ্যাপ তৈরি -->
 <br style="clear: both;" />
-<!-- গ্রাফের ওপরে অতিরিক্ত পারফেক্ট গ্যাপ তৈরি করার জন্য -->
-<div style="display: block; height: 30px; clear: both;"></div>
+<br />
+<br />
+<br />
 
-<!-- নিচের গ্রাফের জন্য পারফেক্ট গ্যাপ (Flexbox ব্যবহারের কারণে এখন মার্জিন ঠিকঠাক কাজ করবে) -->
-<div style="margin-top: 40px;">
-  <!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
-</div>
+<!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
