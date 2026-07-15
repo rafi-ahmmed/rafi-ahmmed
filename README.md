@@ -79,11 +79,19 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 <hr />
 <br />
 
-<div align="center">
-  <a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="48%" alt="GitHub Streak" align="center" /></a> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="48%" alt="languages graph" align="center" />
+<div data-importer="stats" align="center">
+  <!-- ১. GitHub Streak Counter (বড় এবং সেন্টারেড) -->
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="70%" alt="GitHub Streak" />
+  </a>
+  
+  <br /><br /><br />
+
+  <!-- ২. Top Languages Card (বড় এবং সেন্টারেড) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="70%" alt="languages graph" />
+
+  <br /><br /><br />
+
+  <!-- ৩. সবার নিচে ফুল-উইডথ অ্যাক্টিভিটি গ্রাফ চার্ট -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
 </div>
-
-<br /><br />
-
-<!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
