@@ -94,5 +94,5 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="95%" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="55%" alt="activity-graph graph" />
 </div>
