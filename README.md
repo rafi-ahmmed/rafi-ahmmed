@@ -79,20 +79,11 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 <hr />
 <br />
 
-<h2 align="center">📊 GitHub Analytics & Statistics</h2>
-<hr />
-<br />
-
-<div data-importer="stats" align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="55%" alt="GitHub Streak" />
-  </a>
-  
-  <br /><br />
-
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="40%" alt="languages graph" />
-
-  <br /><br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="95%" alt="activity-graph graph" />
+<div align="center">
+  <a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="48%" alt="GitHub Streak" align="center" /></a> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="40%" alt="languages graph" align="center" />
 </div>
+
+<br /><br />
+
+<!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
