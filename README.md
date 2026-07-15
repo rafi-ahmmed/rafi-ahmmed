@@ -81,23 +81,11 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 <br />
 
 <div data-importer="stats" align="center">
-  <!-- দুটি কার্ডকে একদম সমান মাপে পাশাপাশি রাখার জন্য টেবিল -->
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <!-- ১. GitHub Streak Counter (বামে) -->
-      <td align="center" valign="top" style="padding-right: 10px;">
-        <a href="https://git.io/streak-stats" target="_blank">
-          <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react&card_width=495" height="195" alt="GitHub Streak" />
-        </a>
-      </td>
-      <!-- ২. Top Languages Card (ডানে - সমান মাপে লক করা) -->
-      <td align="center" valign="top" style="padding-left: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false&card_width=495" height="195" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
+  <!-- ১. GitHub Streak Counter (বামে) -->
+  <a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react&card_width=450" height="195" alt="GitHub Streak" style="display: inline-block; margin-right: 10px;" /></a><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false&card_width=450" height="195" alt="languages graph" style="display: inline-block;" />
+  <!-- ২. Top Languages Card (ডানে - ঠিক ওপরে ট্যাগের সাথে লেগে একই লাইনে শুরু হয়েছে) -->
 
-  <br />
+  <br /><br />
 
   <!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
