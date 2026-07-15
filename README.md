@@ -96,5 +96,8 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 <!-- গ্রাফের ওপরে অতিরিক্ত পারফেক্ট গ্যাপ তৈরি করার জন্য -->
 <div style="display: block; height: 30px; clear: both;"></div>
 
-<!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
+<!-- নিচের গ্রাফের জন্য পারফেক্ট গ্যাপ (Flexbox ব্যবহারের কারণে এখন মার্জিন ঠিকঠাক কাজ করবে) -->
+<div style="margin-top: 40px;">
+  <!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
+</div>
