@@ -1,6 +1,6 @@
 <p align="center">
   <!-- এখানে আপনার পছন্দমতো ডিজাইন করা ব্যানারের ইমেজ লিংক বসাবেন -->
-  <img src="https://raw.githubusercontent.com/rafi-ahmmed/rafi-ahmmed/main/banner.png" alt="Rafi Ahmmed Siyam Banner" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlsbmhzbXAyOXQ3OWV1bHhla2xraHA4dWpqZWVzeHlrN2JrZ3gwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Rafi Ahmmed Siyam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 , I'm Rafi Ahmmed Siyam</h1>
