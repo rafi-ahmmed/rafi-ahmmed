@@ -86,7 +86,7 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 <div align="left">
   <!-- ১. GitHub Streak Counter (বামে) -->
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="55%" alt="GitHub Streak" align="left" />
+    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="58%" alt="GitHub Streak" align="left" />
   </a>
   
   <!-- দুই ইমেজের মাঝে গ্যাপ রাখার জন্য অদৃশ্য স্পেস -->
@@ -98,7 +98,7 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 
 <br /><br style="clear: both;" /><br />
 <br /><br style="clear: both;" /><br />
-<br /><br/><br />
+<br /><br />
 <br /><br />
 
 
