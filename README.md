@@ -97,6 +97,10 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 </div>
 
 <br /><br style="clear: both;" /><br />
+<br /><br style="clear: both;" /><br />
+<br /><br style="clear: both;" /><br />
 
 <!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />  
+<div/>
