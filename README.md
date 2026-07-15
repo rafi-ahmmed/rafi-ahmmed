@@ -74,27 +74,16 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   </tr>
 </table>
 
-
 <!-- শিরোনাম এবং হরিজন্টাল রুলার -->
 <h2 align="center">📊 GitHub Analytics & Statistics</h2>
 <hr />
 <br />
 
-<!-- প্যারাগ্রাফ ট্যাগ দিয়ে ফ্লেক্সিবল ইনলাইন লেআউট তৈরি -->
-<p align="center">
-  <!-- ১. GitHub Streak Counter (বামে) -->
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="48%" alt="GitHub Streak" style="vertical-align: top;" />
-  </a>
-  
-  <!-- মাঝখানের হালকা গ্যাপ -->
-  <span style="display: inline-block; width: 2%;"></span>
+<div align="center">
+  <a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="48%" alt="GitHub Streak" align="center" /></a> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="48%" alt="languages graph" align="center" />
+</div>
 
-  <!-- ২. Top Languages Card (ডানে) -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="48%" alt="languages graph" style="vertical-align: top;" />
-</p>
-
-<br />
+<br /><br />
 
 <!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
