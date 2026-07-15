@@ -79,10 +79,10 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 <hr />
 <br />
 
-<div align="left">
+<div align="center">
   <!-- ১. GitHub Streak Counter (বামে) -->
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="47%" alt="GitHub Streak" align="left" />
+    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="50%" alt="GitHub Streak" align="left" />
   </a>
   
   <!-- দুই ইমেজের মাঝে গ্যাপ রাখার জন্য অদৃশ্য স্পেস -->
