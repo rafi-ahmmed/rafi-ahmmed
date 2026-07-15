@@ -73,3 +73,6 @@ I have demonstrated expertise in the following tools and frameworks of modern we
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows" /></td>
   </tr>
 </table>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafi-ahmmed&theme=soft-green)](https://git.io/streak-stats)
