@@ -100,10 +100,7 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 <br /><br style="clear: both;" /><br />
 <br /><br style="clear: both;" /><br />
 <br /><br style="clear: both;" /><br />
-<br /><br style="clear: both;" /><br />
-<br /><br style="clear: both;" /><br />
-<br /><br style="clear: both;" /><br />
-<br /><br style="clear: both;" /><br />
+
 
 <!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
 <div>
