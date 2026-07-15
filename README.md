@@ -23,3 +23,36 @@
 * 🌐 Explore My Portfolio **[rafi-ahmmed.vercel.app](https://rafi-ahmmed.vercel.app)** and My **[Resume](#)**
 * 📝 I regularly share updates on **[LinkedIn](https://linkedin.com/in/your-linkedin)**
 * 📬 Feel free to reach me out via **[Email](mailto:your-email@example.com)**
+
+
+## Skill Set 💪
+
+These are some of the major technologies that I use or have worked on in the past:
+
+### Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,c" alt="Programming Languages" />
+  </a>
+</p>
+
+### Libraries and Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,nodejs" alt="Libraries and Frameworks" />
+  </a>
+</p>
+
+### Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
+  </a>
+</p>
+
+### Tools & Operating Systems
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,fedora,windows" alt="Tools and OS" />
+  </a>
+</p>
