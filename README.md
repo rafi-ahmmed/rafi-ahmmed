@@ -82,8 +82,8 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 
 <div data-importer="stats" align="center">
   <!-- ১. GitHub Streak Counter (বামে) -->
-  <a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react&card_width=450" height="195" alt="GitHub Streak" style="display: inline-block; margin-right: 10px;" /></a><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false&card_width=450" height="195" alt="languages graph" style="display: inline-block;" />
-  <!-- ২. Top Languages Card (ডানে - ঠিক ওপরে ট্যাগের সাথে লেগে একই লাইনে শুরু হয়েছে) -->
+  <a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react&card_width=450" height="195" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false&card_width=450" height="195" alt="languages graph" />
+  <!-- ২. Top Languages Card (ডানে - মাঝখানে গ্যাপ সহ) -->
 
   <br /><br />
 
