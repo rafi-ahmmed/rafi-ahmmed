@@ -74,23 +74,24 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   </tr>
 </table>
 
-<!-- ১. শিরোনাম এবং হরিজন্টাল রুলার -->
+<!-- শিরোনাম এবং হরিজন্টাল রুলার -->
 <h2 align="center">📊 GitHub Analytics & Statistics</h2>
 <hr />
 <br />
 
 <div data-importer="stats" align="center">
-  <!-- ২. মূল GitHub Stats Card -->
-  <img src="https://github-readme-stats.shion.dev/api?username=rafi-ahmmed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="stats graph" />
-  
-  <br /><br />
-
-  <!-- ৩. মাঝের লাইনে Top Languages এবং GitHub Streak Counter পাশাপাশি -->
+  <!-- ৩টি কার্ডই পাশাপাশি একই লাইনে -->
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
+      <!-- ১. GitHub Stats Card -->
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api?username=rafi-ahmmed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="165" alt="stats graph" style="margin-right: 15px;" />
+      </td>
+      <!-- ২. Top Languages Card -->
       <td align="center" valign="top">
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" height="165" alt="languages graph" style="margin-right: 15px;" />
       </td>
+      <!-- ৩. GitHub Streak Counter -->
       <td align="center" valign="top">
         <a href="https://git.io/streak-stats" target="_blank">
           <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" height="165" alt="GitHub Streak" />
@@ -101,7 +102,7 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 
   <br />
 
-  <!-- ৪. সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
+  <!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
 </div>
 ###
