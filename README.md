@@ -74,31 +74,24 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   </tr>
 </table>
 
-
 <div data-importer="stats" align="center">
-  <!-- প্রথম লাইনে Stats এবং Languages কার্ড দুটি পাশাপাশি থাকবে -->
+  <!-- Top Languages এবং GitHub Streak Counter পাশাপাশি একই লাইনে -->
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api?username=rafi-ahmmed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" style="margin-right: 10px;" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" height="165" alt="languages graph" style="margin-right: 15px;" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph" />
+        <a href="https://git.io/streak-stats" target="_blank">
+          <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" height="165" alt="GitHub Streak" />
+        </a>
       </td>
     </tr>
   </table>
 
   <br />
 
-  <!-- দ্বিতীয় লাইনে অ্যাক্টিভিটি গ্রাফটি নিচে থাকবে -->
+  <!-- বড় অ্যাক্টিভিটি গ্রাফ চার্টটি থাকবে নিচে -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
-  
-  <br /><br />
-
-  <!-- GitHub Streak Counter -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" alt="GitHub Streak" />
-  </a>
 </div>
-
 ###
