@@ -78,9 +78,14 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafi-ahmmed&theme=soft-green)](https://git.io/streak-stats)
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rafi-ahmmed/rafi-ahmmed/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/rafi-ahmmed/rafi-ahmmed/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/rafi-ahmmed/rafi-ahmmed/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rafi-ahmmed&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" height="300" alt="activity-graph graph" />
 </div>
 
 ###
