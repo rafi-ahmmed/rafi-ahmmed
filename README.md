@@ -39,26 +39,20 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   </tr>
 </table>
 
-### 🎨 CSS FRAMEWORKS & LIBRARIES
-<table>
-  <tr>
-    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind" /><br/><sub>Tailwind</sub></td>
-    <td align="center" width="75" height="75"><img src="https://img.icons8.com/ios-filled/50/ffffff/shadcn-ui.png" width="40" alt="Shadcn UI" /><br/><sub>Shadcn UI</sub></td>
-  </tr>
-</table>
-
-### 🚀 JS FRAMEWORKS & LIBRARIES
+### 🚀 LIBRARIES & FRAMEWORKS
 <table>
   <tr>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React.js" /><br/><sub>React.js</sub></td>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js" /><br/><sub>Next.js</sub></td>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /><br/><sub>Node.js</sub></td>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js" /><br/><sub>Express.js</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind" /><br/><sub>Tailwind</sub></td>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=redux" width="45" alt="TanStack" /><br/><sub>TanStack</sub></td>
+    <td align="center" width="75" height="75"><img src="https://img.icons8.com/ios-filled/50/ffffff/shadcn-ui.png" width="40" alt="Shadcn UI" /><br/><sub>Shadcn UI</sub></td>
   </tr>
 </table>
 
-### ⚙️ DATABASE & MODELS (ORM)
+### ⚙️ DATABASE & ORM
 <table>
   <tr>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" /><br/><sub>MongoDB</sub></td>
@@ -67,19 +61,13 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   </tr>
 </table>
 
-### ☁️ DEPLOYMENT PLATFORMS
-<table>
-  <tr>
-    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" /><br/><sub>Vercel</sub></td>
-    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase" /><br/><sub>Firebase</sub></td>
-  </tr>
-</table>
-
 ### 🛠️ TOOLS & TECHNOLOGIES
 <table>
   <tr>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /><br/><sub>Git</sub></td>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /><br/><sub>GitHub</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase" /><br/><sub>Firebase</sub></td>
+    <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" /><br/><sub>Vercel</sub></td>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /><br/><sub>Postman</sub></td>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=fedora" width="45" alt="Fedora" /><br/><sub>Fedora</sub></td>
     <td align="center" width="75" height="75"><img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows" /><br/><sub>Windows</sub></td>
