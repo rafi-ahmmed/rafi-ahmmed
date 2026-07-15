@@ -27,8 +27,6 @@
 
 ## Technical Expertise 🚀
 
-I have demonstrated expertise in the following tools and frameworks of modern web technology to build responsive and scalable web applications.
-
 ### 💻 LANGUAGES
 <table>
   <tr>
