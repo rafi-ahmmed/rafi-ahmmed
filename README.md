@@ -98,7 +98,7 @@ I have demonstrated expertise in the following tools and frameworks of modern we
 
 <br /><br style="clear: both;" /><br />
 <br /><br style="clear: both;" /><br />
-<br /><br style="clear: both;" /><br />
+<br /><br/><br />
 <br /><br />
 
 
