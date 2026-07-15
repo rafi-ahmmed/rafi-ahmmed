@@ -45,7 +45,7 @@
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /></td>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js" /></td>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind" /></td>
-    <td align="center" width="70" height="70"><img src="[https://skillicons.dev/icons?i=redux](https://i.ibb.co.com/VpVKQ5cC/logo-color-600.png)" width="45" alt="TanstackQuery" /></td>
+    <td align="center" width="70" height="70"><img src="https://i.ibb.co.com/VpVKQ5cC/logo-color-600.png" width="45" alt="TanstackQuery" /></td>
     <td align="center" width="70" height="70"><img src="https://img.icons8.com/ios-filled/50/ffffff/shadcn-ui.png" width="40" alt="Shadcn UI" /></td>
   </tr>
 </table>
@@ -94,7 +94,7 @@
 <br /><br style="clear: both;" /><br />
 <br /><br style="clear: both;" /><br />
 <br /><br />
-<br /><br />
+
 
 
 
