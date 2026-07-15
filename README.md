@@ -27,7 +27,7 @@
 
 ## Technical Expertise 🚀
 
-### 💻 Languages
+### 💻 Languages:
 <table>
   <tr>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /></td>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### 🚀 Libraries & Framworks
+### 🚀 Libraries & Framworks:
 <table>
   <tr>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React.js" /></td>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-### ⚙️ Database & ORM
+### ⚙️ Database & ORM:
 <table>
   <tr>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" /></td>
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies:
 <table>
   <tr>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /></td>
