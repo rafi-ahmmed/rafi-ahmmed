@@ -92,7 +92,9 @@ I have demonstrated expertise in the following tools and frameworks of modern we
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="40%" alt="languages graph" align="left" />
 </div>
 
-<br /><br style="clear: both;" /><br />
+<br style="clear: both;" />
+<!-- গ্রাফের ওপরে অতিরিক্ত পারফেক্ট গ্যাপ তৈরি করার জন্য -->
+<div style="display: block; height: 30px; clear: both;"></div>
 
 <!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />
