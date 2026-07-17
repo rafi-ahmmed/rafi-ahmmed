@@ -67,7 +67,7 @@
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase" /></td>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" /></td>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=fedora" width="45" alt="Fedora" /></td>
+    <td align="center" width="70" height="70"><img src="https://i.ibb.co.com/nNP06z52/icons8-fedora-48.png" width="45" alt="Fedora" /></td>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows" /></td>
   </tr>
 </table>
