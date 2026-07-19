@@ -38,10 +38,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafi-ahmmed920/" target="_blank">
-    <img src="https://i.ibb.co.com/8Lt5Z4R3/linkedin.png" alt="LinkedIn" />
+    <img src="https://i.ibb.co.com/8Lt5Z4R3/linkedin.png" alt="LinkedIn" width="35" style="margin-right: 15px;" />
   </a>
   <a href="https://x.com/RafiAhmmed920" target="_blank">
-    <img src="https://i.ibb.co.com/67MmnjSN/twitter.png" alt="X" />
+    <img src="https://i.ibb.co.com/67MmnjSN/twitter.png" alt="X" width="35" />
   </a>
 </p>
 
