@@ -4,9 +4,9 @@
 
 <br>
 
-<p align="center">
+<h1 align="center">
   <strong style="font-size: 36px;">Hi 👋, I'm Rafi Ahmmed Siyam</strong>
-</p>
+</h1>
 
 <p align="center">
   <img
