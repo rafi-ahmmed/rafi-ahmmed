@@ -6,9 +6,11 @@
 <h1 align="center">Hi 👋 , I'm Rafi Ahmmed Siyam</h1>
 
 <p align="center">
-  <!-- এই টাইপিং অ্যানিমেশনের টেক্সট বা কালার (color=36BCF7) নিজের মতো চেঞ্জ করতে পারেন -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Next.js+Developer" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Developer;Backend-Focused+Developer;Building+Reliable+%26+Scalable+Systems"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
