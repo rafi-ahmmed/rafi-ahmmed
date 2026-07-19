@@ -15,15 +15,16 @@
 ---
 
 * 👋 Hi, I'm **[@rafi-ahmmed](https://github.com/rafi-ahmmed)**
-* 🖥️ I'm currently working on **React.js, Next.js, and Tailwind CSS** for frontend development.
-* 🗄️ Using **Node.js, Express.js, and MongoDB** for the backend.
-* 🛠️ Styling UI with **Shadcn UI, DaisyUI, and modern design principles**.
-* ⚙️ Developing environments across **Fedora/Linux** and **Windows**.
-* 💬 Ask me about **Full-Stack Management Systems (like ParcelPro & AppNexus)**.
-* 🌐 Explore My Portfolio **[rafi-ahmmed.vercel.app](https://rafi-ahmmed.vercel.app)** and My **[Resume](#)**
-* 📝 I regularly share updates on **[LinkedIn](https://linkedin.com/in/your-linkedin)**
-* 📬 Feel free to reach me out via **[Email](mailto:your-email@example.com)**
+* 💻 I'm a **Junior Full-Stack Developer** with a strong focus on **Backend Development**.
+* ⚙️ Building scalable backend applications using **Node.js, Express.js, PostgreSQL, and Prisma**.
+* 🎨 Creating responsive user interfaces with **React.js, Next.js, Tailwind CSS, and Shadcn UI**.
+* 🚀 Currently exploring **system design, authentication, API architecture, and performance optimization**.
+* 🐧 Developing across **Fedora Linux** and **Windows**.
+* 🌐 Explore my portfolio: **[rafi-ahmmed.vercel.app](https://rafi-ahmmed.vercel.app)**
+* 📝 Connect with me on **[LinkedIn](https://linkedin.com/in/your-linkedin)**
+* 📬 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
 
+---
 
 ## Technical Expertise 🚀
 
