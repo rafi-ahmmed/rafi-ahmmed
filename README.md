@@ -34,14 +34,14 @@
 
 <br>
 
-## 💻 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafi-ahmmed920/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://i.ibb.co.com/8Lt5Z4R3/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://x.com/RafiAhmmed920" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://i.ibb.co.com/67MmnjSN/twitter.png" alt="X" />
   </a>
 </p>
 
