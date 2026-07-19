@@ -18,11 +18,11 @@
 * 💻 I'm a **Junior Full-Stack Developer** with a strong focus on **Backend Development**.
 * ⚙️ Building scalable backend applications using **Node.js, Express.js, PostgreSQL, and Prisma**.
 * 🎨 Creating responsive user interfaces with **React.js, Next.js, Tailwind CSS, and Shadcn UI**.
-* 🚀 Currently exploring **system design, authentication, API architecture, and performance optimization**.
+* 🚀 Currently exploring **System Design, Authentication, API Architecture, and Performance Optimization**.
 * 🐧 Developing across **Fedora Linux** and **Windows**.
 * 🌐 Explore my portfolio: **[rafi-ahmmed.vercel.app](https://rafi-ahmmed.vercel.app)**
-* 📝 Connect with me on **[LinkedIn]((https://www.linkedin.com/in/rafi-ahmmed920/))**
-* 📬 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
+* 📝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/rafi-ahmmed920/)**
+* 📬 Reach me at **[rafi.ahmmed920@gmail.com](mailto:rafi.ahmmed920@gmail.com)**
 
 ---
 
