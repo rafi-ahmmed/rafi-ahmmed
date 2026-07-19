@@ -4,7 +4,9 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Rafi Ahmmed Siyam</h1>
+<h1 align="center">
+  Hi 👋, I'm Rafi Ahmmed Siyam
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,25 +17,22 @@
   </a>
 </p>
 
-<br>
 
-<ul>
-  <li>👋 Hi, I'm <a href="https://github.com/rafi-ahmmed"><strong>@rafi-ahmmed</strong></a></li>
-  <li>💻 I'm a <strong>Junior Full-Stack Developer</strong> with a strong focus on <strong>Backend Development</strong>.</li>
-  <li>⚙️ Building scalable backend applications using <strong>Node.js, Express.js, PostgreSQL, and Prisma</strong>.</li>
-  <li>🎨 Creating responsive user interfaces with <strong>React.js, Next.js, Tailwind CSS, and Shadcn UI</strong>.</li>
-  <li>🚀 Currently exploring <strong>System Design, Authentication, API Architecture, and Performance Optimization</strong>.</li>
-  <li>🐧 Developing across <strong>Fedora Linux</strong> and <strong>Windows</strong>.</li>
-  <li>🌐 Explore my portfolio: <a href="https://rafi-ahmmed.vercel.app"><strong>rafi-ahmmed.vercel.app</strong></a></li>
-  <li>📝 Connect with me on <a href="https://www.linkedin.com/in/rafi-ahmmed920/"><strong>LinkedIn</strong></a></li>
-  <li>📬 Reach me at <a href="mailto:rafi.ahmmed920@gmail.com"><strong>rafi.ahmmed920@gmail.com</strong></a></li>
-</ul>
+* 👋 Hi, I'm **[@rafi-ahmmed](https://github.com/rafi-ahmmed)**
+* 💻 I'm a **Junior Full-Stack Developer** with a strong focus on **Backend Development**.
+* ⚙️ Building scalable backend applications using **Node.js, Express.js, PostgreSQL, and Prisma**.
+* 🎨 Creating responsive user interfaces with **React.js, Next.js, Tailwind CSS, and Shadcn UI**.
+* 🚀 Currently exploring **System Design, Authentication, API Architecture, and Performance Optimization**.
+* 🐧 Developing across **Fedora Linux** and **Windows**.
+* 🌐 Explore my portfolio: **[rafi-ahmmed.vercel.app](https://rafi-ahmmed.vercel.app)**
+* 📝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/rafi-ahmmed920/)**
+* 📬 Reach me at **[rafi.ahmmed920@gmail.com](mailto:rafi.ahmmed920@gmail.com)**
 
-<br>
 
-<h2>🚀 Technical Expertise</h2>
 
-<h3>💻 Languages</h3>
+## Technical Expertise 🚀
+
+### 💻 Languages:
 <table>
   <tr>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /></td>
@@ -43,19 +42,19 @@
   </tr>
 </table>
 
-<h3>🚀 Libraries & Frameworks</h3>
+### 🚀 Libraries & Framworks:
 <table>
   <tr>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React.js" /></td>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js" /></td>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /></td>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js" /></td>
-    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS" /></td>
-    <td align="center" width="70" height="70"><img src="https://i.ibb.co.com/VpVKQ5cC/logo-color-600.png" width="45" alt="TanStack Query" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind" /></td>
+    <td align="center" width="70" height="70"><img src="https://i.ibb.co.com/VpVKQ5cC/logo-color-600.png" width="45" alt="TanstackQuery" /></td>
   </tr>
 </table>
 
-<h3>⚙️ Database & ORM</h3>
+### ⚙️ Database & ORM:
 <table>
   <tr>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" /></td>
@@ -64,7 +63,7 @@
   </tr>
 </table>
 
-<h3>🛠️ Tools & Technologies</h3>
+### 🛠️ Tools & Technologies:
 <table>
   <tr>
     <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /></td>
@@ -77,23 +76,34 @@
   </tr>
 </table>
 
-<br>
 
-<h2>📊 GitHub Analytics & Statistics</h2>
+<!-- শিরোনাম এবং হরিজন্টাল রুলার -->
+<h2 align="left">📊 GitHub Analytics & Statistics</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react&border_radius=10" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=6&theme=react&border_radius=10" width="49%" alt="Top Languages" />
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafi-ahmmed&show_icons=true&theme=react&border_radius=10" width="49%" alt="GitHub Stats" />
-</p>
+<div align="left">
+  <!-- ১. GitHub Streak Counter (বামে) -->
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=rafi-ahmmed&theme=react" width="55%" alt="GitHub Streak" align="left" />
+  </a>
+  
+  <!-- দুই ইমেজের মাঝে গ্যাপ রাখার জন্য অদৃশ্য স্পেস -->
+  <span style="display: inline-block; width: 4%;"></span>
 
-<br>
+  <!-- ২. Top Languages Card (ডানে) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafi-ahmmed&layout=compact&langs_count=5&theme=react&hide_border=false" width="40%" alt="languages graph" align="left" />
+</div>
 
-<h2>📈 Contribution Activity</h2>
+<br /><br style="clear: both;" /><br />
+<br /><br style="clear: both;" /><br />
+<br /><br />
+<br /><br />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true&border_radius=10" width="100%" alt="Activity Graph" />
-</p>
+
+
+
+<!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />  
+<div/>
