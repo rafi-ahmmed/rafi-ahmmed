@@ -4,7 +4,9 @@
 
 <br>
 
-<h2 align="center">Hi 👋, I'm Rafi Ahmmed Siyam</h2>
+<p align="center">
+  <b><font size="6">Hi 👋, I'm Rafi Ahmmed Siyam</font></b>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
