@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=999999&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B,+I'm+Rafi+Ahmmed+Siyam" alt="Name" />
+  <strong style="font-size: 36px;">Hi 👋, I'm Rafi Ahmmed Siyam</strong>
 </p>
 
 <p align="center">
