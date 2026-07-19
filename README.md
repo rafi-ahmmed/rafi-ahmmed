@@ -21,7 +21,7 @@
 * 🚀 Currently exploring **system design, authentication, API architecture, and performance optimization**.
 * 🐧 Developing across **Fedora Linux** and **Windows**.
 * 🌐 Explore my portfolio: **[rafi-ahmmed.vercel.app](https://rafi-ahmmed.vercel.app)**
-* 📝 Connect with me on **[LinkedIn](https://linkedin.com/in/your-linkedin)**
+* 📝 Connect with me on **[LinkedIn]((https://www.linkedin.com/in/rafi-ahmmed920/))**
 * 📬 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
 
 ---
