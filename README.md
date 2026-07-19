@@ -4,9 +4,9 @@
 
 <br>
 
-<h1 align="center">
+<div align="center" style="font-size: 2em; font-weight: bold; margin-bottom: 15px;">
   Hi 👋, I'm Rafi Ahmmed Siyam
-</h1>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
