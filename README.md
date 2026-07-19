@@ -4,13 +4,11 @@
 
 <br>
 
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Rafi Ahmmed Siyam
+</h1>
 
-
-# Hi 👋, I'm Rafi Ahmmed Siyam
-
-</div>
-
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
