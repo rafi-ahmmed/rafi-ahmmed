@@ -42,7 +42,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/RafiAhmmed920" target="_blank">
-    <code><img src="https://i.ibb.co.com/67MmnjSN/twitter.png" alt="X" width="30" /></code>
+    <code><img src="https://i.ibb.co.com/Kc6rsG2N/icons8-x-50.png" alt="X" width="30" /></code>
   </a>
 </p>
 
