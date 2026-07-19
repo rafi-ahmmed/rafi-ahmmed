@@ -5,9 +5,8 @@
 <br>
 
 <p align="center">
-  <strong><span style="display:none"></span><font size="6">Hi 👋, I'm Rafi Ahmmed Siyam</font></strong>
+  <h4>Hi 👋, I'm Rafi Ahmmed Siyam</h4>
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
