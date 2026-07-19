@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Rafi Ahmmed Siyam Banner" width="100%" />
+  <img src="https://i.ibb.co.com/KjnryQMs/github-header-banner.png" alt="Rafi Ahmmed Siyam Banner" width="100%" />
 </p>
 
 <br>
