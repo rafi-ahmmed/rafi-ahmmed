@@ -1,4 +1,4 @@
-<p align="center">
+<p align="">
   <img src="https://i.ibb.co.com/KjnryQMs/github-header-banner.png" alt="Rafi Ahmmed Siyam Banner" width="100%" />
 </p>
 
