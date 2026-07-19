@@ -2,18 +2,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Rafi Ahmmed Siyam Banner" width="100%" />
 </p>
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rafi Ahmmed Siyam</h1>
 
-# Hi 👋, I'm Rafi Ahmmed Siyam
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Developer;Backend-Focused+Developer;Building+Reliable+%26+Scalable+Systems"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Developer;Backend-Focused+Developer;Building+Reliable+%26+Scalable+Systems"
-    alt="Typing SVG"
-  />
-</a>
-
-</div>
 ---
 
 * 👋 Hi, I'm **[@rafi-ahmmed](https://github.com/rafi-ahmmed)**
