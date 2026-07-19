@@ -17,6 +17,7 @@
   </a>
 </p>
 
+<br>
 
 * 👋 Hi, I'm **[@rafi-ahmmed](https://github.com/rafi-ahmmed)**
 * 💻 I'm a **Junior Full-Stack Developer** with a strong focus on **Backend Development**.
@@ -28,7 +29,7 @@
 * 📝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/rafi-ahmmed920/)**
 * 📬 Reach me at **[rafi.ahmmed920@gmail.com](mailto:rafi.ahmmed920@gmail.com)**
 
-
+<br>
 
 ## Technical Expertise 🚀
 
@@ -76,6 +77,7 @@
   </tr>
 </table>
 
+<br>
 
 <!-- শিরোনাম এবং হরিজন্টাল রুলার -->
 <h2 align="left">📊 GitHub Analytics & Statistics</h2>
