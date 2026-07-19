@@ -4,7 +4,9 @@
 
 <br>
 
-# Hi 👋, I'm Rafi Ahmmed Siyam
+<h1 align="center">
+  Hi 👋, I'm Rafi Ahmmed Siyam
+</h1>
 
 <br>
 
