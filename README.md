@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <b><font size="6">Hi 👋, I'm Rafi Ahmmed Siyam</font></b>
+  <strong><span style="display:none"></span><font size="6">Hi 👋, I'm Rafi Ahmmed Siyam</font></strong>
 </p>
 
 <p align="center">
