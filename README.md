@@ -126,10 +126,7 @@
 
 
 <!-- GitHub Activity Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true&hide_border=true"
-    alt="Rafi's GitHub Activity Graph"
-    width="100%"
-  />
-</p>
+<!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />  
+<div/>
