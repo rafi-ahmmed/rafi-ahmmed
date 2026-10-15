@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://i.ibb.co.com/KjnryQMs/github-header-banner.png"
+    src="https://res.cloudinary.com/dghtlkpri/image/upload/v1792093779/github-header-banner_pzam5f.png"
     alt="Rafi Ahmmed Siyam Banner"
     width="100%"
   />
