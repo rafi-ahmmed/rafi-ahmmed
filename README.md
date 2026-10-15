@@ -1,7 +1,10 @@
-<p align="">
-  <img src="https://i.ibb.co.com/KjnryQMs/github-header-banner.png" alt="Rafi Ahmmed Siyam Banner" width="100%" />
+<p align="center">
+  <img
+    src="https://i.ibb.co.com/KjnryQMs/github-header-banner.png"
+    alt="Rafi Ahmmed Siyam Banner"
+    width="100%"
+  />
 </p>
-
 <br>
 
 <h1 align="center">
@@ -122,7 +125,11 @@
 
 
 
-<!-- সবার নিচে বড় অ্যাক্টিভিটি গ্রাফ চার্টটি -->
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true" width="100%" alt="activity-graph graph" />  
-<div/>
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rafi-ahmmed&theme=react&area=true&hide_border=true"
+    alt="Rafi's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
