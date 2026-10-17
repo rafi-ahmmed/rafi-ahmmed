@@ -64,36 +64,37 @@
 </table>
 
 ### 🚀 Libraries & Framworks:
+<h3>💻 Frontend & Backend:</h3>
 <table>
   <tr>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React.js" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind" /></td>
-    <td align="center" width="50" height="50"><img src="https://i.ibb.co.com/VpVKQ5cC/logo-color-600.png" width="45" alt="TanstackQuery" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React.js" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express.js" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" /></td>
+    <td align="center" width="60" height="60"><img src="https://i.ibb.co.com/VpVKQ5cC/logo-color-600.png" width="60" height="60" alt="TanstackQuery" /></td>
   </tr>
 </table>
 
 ### ⚙️ Database & ORM:
 <table>
   <tr>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=prisma" width="45" alt="Prisma" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" /></td>
   </tr>
 </table>
 
 ### 🛠️ Tools & Technologies:
 <table>
   <tr>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Vercel" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman" /></td>
-    <td align="center" width="50" height="50"><img src="https://i.ibb.co.com/nNP06z52/icons8-fedora-48.png" width="45" alt="Fedora" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=windows" width="45" alt="Windows" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Vercel" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" /></td>
+    <td align="center" width="60" height="60"><img src="https://i.ibb.co.com/nNP06z52/icons8-fedora-48.png" width="60" height="60" alt="Fedora" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=windows" width="60" height="60" alt="Windows" /></td>
   </tr>
 </table>
 
