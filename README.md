@@ -57,14 +57,14 @@
 <table>
   <tr>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /></td>
-    <td align="center" width="50" height="60"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript" /></td>
   </tr>
 </table>
 
 ### 🚀 Libraries & Framworks:
-<h3>💻 Frontend & Backend:</h3>
+<h4>💻 Frontend & Backend:</h4>
 <table>
   <tr>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React.js" /></td>
