@@ -56,10 +56,10 @@
 ### 💻 Languages:
 <table>
   <tr>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /></td>
-    <td align="center" width="50" height="50"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /></td>
+    <td align="center" width="50" height="60"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript" /></td>
   </tr>
 </table>
 
